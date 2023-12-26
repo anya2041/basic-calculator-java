@@ -1,8 +1,6 @@
 # basic-calculator-java
 
 
-Certainly! Below is an example of a README file for your simple Java Swing calculator that you can use when uploading it to GitHub:
-
 Simple Java Swing Calculator
 This Java application is a basic calculator built using Swing, providing a simple graphical user interface (GUI) for performing arithmetic operations.
 
